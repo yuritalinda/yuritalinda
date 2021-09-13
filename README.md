@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yuri Baptista</h1>
-<h3 align="center">A frontend developer from Chile.</h3>
+<h3 align="center">woman frontend developer from Chile.</h3>
 
 - 🔭 I’m currently working on [MD links](https://github.com/yuritalinda/SCL017-md-link)
 
