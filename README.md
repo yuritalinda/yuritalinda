@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Yuri Baptista</h1>
 <h3 align="center">woman frontend developer from Chile.</h3>
 
-- 🔭 I’m currently working on [MD links](https://github.com/yuritalinda/SCL017-md-link)
+- 🔭 I’m currently working on [Burger Queen](https://github.com/yuritalinda/SCL017-Burger-Queen)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
