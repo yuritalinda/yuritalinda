@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yuri Baptista</h1>
 <h3 align="center">woman frontend developer from Chile.</h3>
 
-- 🔭 I’m currently working on [Burger Queen](https://github.com/yuritalinda/SCL017-Burger-Queen)
+- 🔭 I’m currently working on [My new Online Portafolio](https://github.com/yuritalinda/yurita-dev.git)
 
 - 🌱 I’m currently learning **React**
 
