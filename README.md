@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [My new Online Portafolio](https://github.com/yuritalinda/yurita-dev.git)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next Js typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
